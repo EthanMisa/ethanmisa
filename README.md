@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello world 👋
 
+My name is Ethan Misa, and I am currently studying Computing and Financial Management at the University of Waterloo.
 <!--
 **EthanMisa/ethanmisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
