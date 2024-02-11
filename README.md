@@ -4,10 +4,10 @@ I'm a passionate third-year computer science student at the University of Waterl
 
 #### 💻 What I'm up to:
 
-- 📚 Currently, I'm working as a Software Developer at [theScore](https://www.thescore.com/) on the Accounts team, where I'm building backend features using Elixir and PostgreSQL.
+- 📚 Studying!
 
 #### 🔭 What I've done:
-
+- 🏈 Software Developer at [theScore](https://www.thescore.com/) on the Accounts team, where I'm building backend features using Elixir and PostgreSQL.
 - 💸 Full Stack Developer at [Relay Financial
 ](https://relayfi.com/), building out new signup flows and user features with Typescript and PostgreSQL.
 - ⚡ Sofware Developer at [Stablecorp](https://www.stablecorp.ca/), designing databases and automating onboaring flows with Python and MySQL.
